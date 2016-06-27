@@ -1,14 +1,14 @@
 {
   "proceedings": {
-     "citation_key": "proc-scipy-2010", 
+     "citation_key": "proc-scipy-2016", 
      "title": {
        "acronym": "SciPy",
        "conference": "Python in Science Conference",
-       "ordinal": "9th",
-       "short": "PROC. OF THE 9th PYTHON IN SCIENCE CONF. (SCIPY 2010)",
-       "full": "Proceedings of the 9th Python in Science Conference"
+       "ordinal": "15th",
+       "short": "PROC. OF THE 15th PYTHON IN SCIENCE CONF. (SCIPY 2016)",
+       "full": "Proceedings of the 15th Python in Science Conference"
      },
-     "year": "2010",
+     "year": "2016",
      "editor": [
         "Stéfan van der Walt",
         "Jarrod Millman"
@@ -17,7 +17,7 @@
      "number": 1,
      "isbn": "value",
      "location": "Austin, Texas",
-     "dates": "June 28 - July 3",
+     "dates": "July 11 - July 17",
      "copyright": {
        "article": "This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.",
        "proceedings": ["The articles in the Proceedings of the Python in Science Conference are copyrighted and owned by their original authors",
